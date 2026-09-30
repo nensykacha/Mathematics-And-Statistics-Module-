@@ -49,9 +49,9 @@ This repository contains theory answers and practical Python implementations for
 - Range, Variance, and Standard Deviation calculation for `Science_Score`.
 
 ### Step 2: Probability Basics
-- Overall probability of passing ($P(\text{Pass\_Fail} = 1)$).
+- Overall probability of passing ($P(\text{Pass\Fail} = 1)$).
 - Contingency table creation between `Pass_Fail` and `Hours_Studied > 5`.
-- Conditional Probability: $P(\text{Pass} \mid \text{Hours\_Studied} > 5)$.
+- Conditional Probability: $P(\text{Pass} \mid \text{Hours\Studied} > 5)$.
 
 ### Step 3: Distribution & Visualization
 - Histogram overlaid with fitted Normal Curve for `Math_Score`.
