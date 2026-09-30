@@ -50,8 +50,6 @@ This repository contains theory answers and practical Python implementations for
 
 ### Step 2: Probability Basics
 - Overall probability of passing ($P(\text{Pass\_Fail} = 1)$).
-- Contingency table creation between `Pass Fail` and `Hours Studied > 5`.
-- Conditional Probability: $P(\text{Pass} \mid \text{Hours\_Studied} > 5)$.
 
 ### Step 3: Distribution & Visualization
 - Histogram overlaid with fitted Normal Curve for `Math_Score`.
