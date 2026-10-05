@@ -134,7 +134,7 @@ The project includes:
 ## 🎥 Video Explanation
 
 **Video Link:**
-`PASTE_YOUR_VIDEO_LINK_HERE`
+(https://drive.google.com/drive/folders/1gqmz752nW1TZw2OGnsLXAvRO0kSQ6cIi)
 
 ## ✅ Conclusion
 
